@@ -49,9 +49,7 @@ header {
 
 header .header-gradient {
     width: 100%;
-    background: linear-gradient(90deg, 
-        rgba(255,255,255,1) 0%,
-        rgba(212,235,253,1) 100%);
+    background: rgba(255,255,255,1) 0%,
 }
 
 main {
@@ -519,4 +517,5 @@ select#adscripcion {
 	max-width: 80%;
 	border: solid 8px white;
 	box-shadow: 4px 4px 16px grey;
+
 }
