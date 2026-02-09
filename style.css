@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/icon?family=Material+Icons");
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=SN+Pro:ital,wght@0,200..900;1,200..900&display=swap');
 
 html * {
 	padding: 0;
@@ -32,7 +33,7 @@ html * {
 body {
 	width: 100%;
 	min-width: 720px;
-	font-family: "Montserrat", Arial, Helvetica, sans-serif;
+	font-family: "SN Pro", Arial, Helvetica, sans-serif;
 	background-color: #e3e8e4;
 	overflow-y: scroll;
 }
