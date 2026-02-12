@@ -522,3 +522,10 @@ select#adscripcion {
 	box-shadow: 4px 4px 16px grey;
 
 }
+.req{
+	max-width: 80%;
+	border: solid 8px white;
+	box-shadow: 4px 4px 16px grey;
+
+}
+
