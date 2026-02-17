@@ -1,0 +1,16 @@
+{
+  "id": "SS06260002",
+  "proyecto": "Impulsar y desarrollar el gusto y aprecio cultural entre los usuarios",
+  "unidad": "Centro de Seguridad Social Colima",
+  "turno": "Vespertino",
+  "domicilio": null,
+  "contacto": null,
+  "responsable": null,
+  "objetivo": null,
+  "modalidad": null,
+  "actividades": [null],
+  "prestadores": {
+    "tecnico": { "ss": 0, "pp": 0 },
+    "profesional": { "ss": 0, "pp": 0 }
+  }
+}

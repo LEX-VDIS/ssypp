@@ -563,3 +563,7 @@ select#adscripcion {
   align-content: center;
   flex-direction: row;
 }
+
+.tabla th {
+  text-align: justify;
+}

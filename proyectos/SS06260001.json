@@ -1,0 +1,20 @@
+{
+  "id": "SS06260001",
+  "proyecto": "Diseñar, implementar, dirigir y evaluar programas con calidad en el área de cultura física y deporte",
+  "unidad": "Centro de Seguridad Social Colima",
+  "turno": "Vespertino",
+  "domicilio": "Anastacio Brizuela #399, Col. Villas del Bosque, C.P. 28050, Colima, Col.",
+  "contacto": 3123142082,
+  "responsable": "Lic. Leonardo Alonso González",
+  "objetivo": "Desarrollar actividades de promoción de la salud y activación física  para crear en la población derechohabiente y no derechohabiente una cultura del cuidado de la salud a través del ejercicio y del deporte en pro de mejorar la calidad de vida",
+  "modalidad": "Presencial",
+  "actividades": [
+    "Apoyar a la distribución y organización del material de clases.",
+    "Auxiliar al profesor de educación física con la demostración de las actividades o ejercicios en específico.",
+    "Apoyar con el registro de asistencia en el Sistema (SIPSI)."
+  ],
+  "prestadores": {
+    "tecnico": { "ss": 0, "pp": 0 },
+    "profesional": { "ss": 1, "pp": 0 }
+  }
+}

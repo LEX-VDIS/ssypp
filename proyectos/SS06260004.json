@@ -1,0 +1,16 @@
+{
+  "id": "SS06260004",
+  "proyecto": "Actualización de la información contable y administrativa en el área de prestaciones económicas",
+  "unidad": "Centro de Seguridad Social Colima",
+  "turno": null,
+  "domicilio": null,
+  "contacto": null,
+  "responsable": null,
+  "objetivo": null,
+  "modalidad": null,
+  "actividades": [null],
+  "prestadores": {
+    "tecnico": { "ss": 0, "pp": 0 },
+    "profesional": { "ss": 0, "pp": 0 }
+  }
+}

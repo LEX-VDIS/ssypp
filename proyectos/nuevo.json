@@ -1,0 +1,16 @@
+{
+  "id": null,
+  "proyecto": null,
+  "unidad": null,
+  "turno": null,
+  "domicilio": null,
+  "contacto": null,
+  "responsable": null,
+  "objetivo": null,
+  "modalidad": null,
+  "actividades": [null],
+  "prestadores": {
+    "tecnico": { "ss": 0, "pp": 0 },
+    "profesional": { "ss": 0, "pp": 0 }
+  }
+}

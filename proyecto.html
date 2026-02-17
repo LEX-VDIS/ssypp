@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Servicio Social y Prácticas Profesionales</title>
+    <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <img src="./img/header-logos.png" />
+        <div class="header-gradient"></div>
+        <img src="./img/header-scene.png" />
+      </header>
+      <main class="tabla">
+        <span class="print_button"
+          ><h1>Servicio Social y Prácticas Profesionales</h1>
+          <button onclick="window.print();">Imprimir</button></span
+        >
+        <table width="100%">
+          <tr>
+            <th>Número de Programa o Proyecto</th>
+            <th>Turno</th>
+            <th>Modalidad</th>
+          </tr>
+          <tr>
+            <td id="id"></td>
+            <td id="turno"></td>
+            <td id="modalidad"></td>
+          </tr>
+        </table>
+        <br />
+        <table width="100%">
+          <tr>
+            <th>Nombre del Programa o Proyecto</th>
+          </tr>
+          <tr>
+            <td id="proyecto"></td>
+          </tr>
+        </table>
+        <br />
+        <table width="100%">
+          <tr>
+            <th>Responsable</th>
+            <th>Unidad</th>
+          </tr>
+          <tr>
+            <td id="responsable"></td>
+            <td id="unidad"></td>
+          </tr>
+          <tr>
+            <th>Contacto</th>
+            <th>Domicilio</th>
+          </tr>
+          <tr>
+            <td id="contacto"></td>
+            <td id="domicilio"></td>
+          </tr>
+        </table>
+        <br />
+        <table width="100%">
+          <tr>
+            <th>Objetivo del proyecto</th>
+          </tr>
+          <tr>
+            <td id="objetivo"></td>
+          </tr>
+        </table>
+      </main>
+      <footer>
+        <p>
+          Departamento de Capacitación - Matamoros No. 180 Colonia Centro,
+          Colima, Col. C.P. 28000
+        </p>
+      </footer>
+    </div>
+  </body>
+  <script src="proyecto.js" charset="utf-8"></script>
+</html>
