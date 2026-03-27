@@ -4,39 +4,56 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
     <title>Servicio Social y Prácticas Profesionales</title>
-    <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
+    <link rel="shortcut icon" type="image/x-icon" href="./img/favicon.ico" />
     <link rel="stylesheet" type="text/css" href="./style.css" />
   </head>
-  <body>
+  <body class="background">
     <div class="container">
       <header>
         <img src="./img/header-logos.png" />
-        <div class="header-gradient"></div>
+        <div class="header-gradient">
+          <h3>Jefatura de Servicios de Desarrollo de Personal</h3>
+          <h3>Departamento de Capacitación</h3>
+        </div>
         <img src="./img/header-scene.png" />
       </header>
       <nav style="position: sticky">
         <ul>
-          <li><a href="index.html" class="active">Inicio</a></li>
-          <li><a href="requisitos.html">Requisitos</a></li>
-          <li><a href="proyectos.html">Proyectos</a></li>
-          <li><a href="material.html">Material</a></li>
-          <li><a href="contacto.html">Contacto</a></li>
+          <li>
+            <a href="inicio.html" id="t0" class="active" target="main"
+              >Inicio</a
+            >
+          </li>
+          <li>
+            <a href="requisitos.html" id="t0" class="" target="main"
+              >Requisitos</a
+            >
+          </li>
+          <li>
+            <a href="projects.html" id="t0" class="" target="main">Proyectos</a>
+          </li>
+          <li>
+            <a href="material.html" id="t0" class="" target="main">Material</a>
+          </li>
+          <li>
+            <a href="contacto.html" id="t0" class="" target="main">Contacto</a>
+          </li>
         </ul>
       </nav>
-      <main>
-        <h1>Servicio Social y Prácticas Profesionales</h1>
-        <br />
-        <div class="content-center">
-          <img src="./img/flyerred.png" class="flyer" />
-        </div>
-        <br />
-      </main>
-      <footer>
-        <p>
-          Departamento de Capacitación - Matamoros No. 180 Colonia Centro,
-          Colima, Col. C.P. 28000
-        </p>
-      </footer>
-    </div>
+      <iframe
+        name="main"
+        class="main"
+        src="inicio.html"
+        frameborder="0"
+      ></iframe>
+          <footer>
+      <p>
+        Departamento de Capacitación - Matamoros No. 180 Colonia Centro, Colima,
+        Col. C.P. 28000 - Tel. 312 313 4079
+      </p>
+    </footer>
   </body>
+    </div>
+
+  <script src="index.js" charset="utf-8"></script>
 </html>

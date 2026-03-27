@@ -4,7 +4,7 @@ const id = params.get("id");
 
 async function getPost() {
   try {
-    const response = await fetch("proyectos/" + id + ".json");
+    const response = await fetch("./proyectos/" + id + ".json");
 
     if (!response.ok) {
       throw new Error(`HTTP error! Status: ${response.status}`);
